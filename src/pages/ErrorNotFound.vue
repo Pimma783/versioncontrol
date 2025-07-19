@@ -22,6 +22,10 @@
   </div>
 </template>
 
+<<<<<<< HEAD
+<script setup>
+//
+=======
 <script>
 import { useQuasar } from 'quasar'
 import { ref } from 'vue'
@@ -63,4 +67,5 @@ export default {
     }
   }
 }
+>>>>>>> master
 </script>
